@@ -42,5 +42,5 @@ And run the script with the path to the audio file specified:
 @misc{orel2022turkic_asr,
       title={Automatic Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh},
       author={Daniil Orel and Rustem Yeshpanov and Huseyin Atakan Varol},
-      year={2022},
+      year={2022}
 }
