@@ -1,7 +1,7 @@
 # Automatic Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh
 
 
-This repository contains links to (1) [weights](https://drive.google.com/drive/folders/1KgfuqCKerapO_v9Ts1gic42EFrib1zNN?usp=sharing) for automatic speech recognition (ASR) models built by applying cross-lingual transfer learning from Kazakh to nine lower-resourced Turkic languages and (2) [pre-trained language models](https://drive.google.com/drive/folders/11mIYFEedsL2UtPcK5FT2cEy8rdcqxe39?usp=sharing).
+This repository contains links to (1) [weights](https://drive.google.com/drive/folders/1KgfuqCKerapO_v9Ts1gic42EFrib1zNN?usp=sharing) for automatic speech recognition (ASR) models built by applying cross-lingual transfer learning from Kazakh to nine lower-resourced Turkic languages (Azerbaijani, Bashkir, Chuvash, Kyrgyz, Sakha, Tatar, Turkish, Uyghur, and Uzbek) and (2) [pre-trained language models](https://drive.google.com/drive/folders/11mIYFEedsL2UtPcK5FT2cEy8rdcqxe39?usp=sharing).
 
 
 ## Recipe
