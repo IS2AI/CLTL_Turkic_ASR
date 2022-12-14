@@ -35,7 +35,7 @@ And run the script with the path to the audio file specified:
 
 ## Downloading the repository
 
-`git clone https://github.com/IS2AI/turkic_asr.git`
+`git clone https://github.com/IS2AI/CLTL_Turkic_ASR.git`
 
 ## Citation
 
