@@ -25,24 +25,20 @@ And run the script with the path to the audio file specified:
 ./recog_wav.sh <path-to-audio-file>
 ```
 
-## Paper
-
-[LINK TO PAPER GOES HERE]
-
 ## Video on YouTube
 
 [LINK TO VIDEO GOES HERE]
 
-## Downloading the repository
-
-`git clone https://github.com/IS2AI/CLTL_Turkic_ASR.git`
-
 ## Citation
 
 ```bibtex
-@misc{orel2022turkic_asr,
-      title={Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh},
-      author={Daniil Orel and Rustem Yeshpanov and Huseyin Atakan Varol},
-      year={2022}
-}
+@INPROCEEDINGS{10066768,
+  author={Orel, Daniil and Yeshpanov, Rustem and Varol, Huseyin Atakan},
+  booktitle={2023 IEEE International Conference on Big Data and Smart Computing (BigComp)}, 
+  title={Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={174-182},
+  doi={10.1109/BigComp57234.2023.00037}}
 ```
