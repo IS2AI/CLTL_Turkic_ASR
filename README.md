@@ -28,13 +28,12 @@ And run the script with the path to the audio file specified:
 ## Citation
 
 ```bibtex
-@INPROCEEDINGS{10066768,
+@inproceedings{orel2023speech,
+  title={Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh},
   author={Orel, Daniil and Yeshpanov, Rustem and Varol, Huseyin Atakan},
-  booktitle={2023 IEEE International Conference on Big Data and Smart Computing (BigComp)}, 
-  title={Speech Recognition for Turkic Languages Using Cross-Lingual Transfer Learning from Kazakh}, 
+  booktitle={2023 IEEE International Conference on Big Data and Smart Computing (BigComp)},
+  pages={174--182},
   year={2023},
-  volume={},
-  number={},
-  pages={174-182},
+  organization={IEEE}
   doi={10.1109/BigComp57234.2023.00037}}
 ```
