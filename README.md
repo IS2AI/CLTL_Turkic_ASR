@@ -25,10 +25,6 @@ And run the script with the path to the audio file specified:
 ./recog_wav.sh <path-to-audio-file>
 ```
 
-## Video on YouTube
-
-[LINK TO VIDEO GOES HERE]
-
 ## Citation
 
 ```bibtex
